@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/novonitxxh/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/novonitxxh/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/novonitxxh/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/novonitxxh/leetcode-solutions/tree/master/0169-majority-element) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/novonitxxh/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/novonitxxh/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/novonitxxh/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [2182-construct-string-with-repeat-limit](https://github.com/novonitxxh/leetcode-solutions/tree/master/2182-construct-string-with-repeat-limit) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/novonitxxh/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/novonitxxh/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/novonitxxh/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
