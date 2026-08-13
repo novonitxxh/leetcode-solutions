@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/novonitxxh/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/novonitxxh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/novonitxxh/leetcode-solutions/tree/master/0268-missing-number) |
+| [1472-design-browser-history](https://github.com/novonitxxh/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [2965-find-missing-and-repeated-values](https://github.com/novonitxxh/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/novonitxxh/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/novonitxxh/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/novonitxxh/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1472-design-browser-history](https://github.com/novonitxxh/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Tree
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/novonitxxh/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/novonitxxh/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [1472-design-browser-history](https://github.com/novonitxxh/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -202,4 +205,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/novonitxxh/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/novonitxxh/leetcode-solutions/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/novonitxxh/leetcode-solutions/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/novonitxxh/leetcode-solutions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
