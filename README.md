@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/novonitxxh/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/novonitxxh/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/novonitxxh/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/novonitxxh/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/novonitxxh/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/novonitxxh/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/novonitxxh/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/novonitxxh/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1472-design-browser-history](https://github.com/novonitxxh/leetcode-solutions/tree/master/1472-design-browser-history) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/novonitxxh/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/novonitxxh/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/novonitxxh/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0143-reorder-list](https://github.com/novonitxxh/leetcode-solutions/tree/master/0143-reorder-list) |
 | [1472-design-browser-history](https://github.com/novonitxxh/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Binary Search Tree
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/novonitxxh/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/novonitxxh/leetcode-solutions/tree/master/0143-reorder-list) |
 ## Bracket Sequences
 |  |
 | ------- |
