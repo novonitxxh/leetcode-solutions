@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/novonitxxh/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/novonitxxh/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/novonitxxh/leetcode-solutions/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/novonitxxh/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/novonitxxh/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/novonitxxh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/novonitxxh/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/novonitxxh/leetcode-solutions/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [2965-find-missing-and-repeated-values](https://github.com/novonitxxh/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/novonitxxh/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/novonitxxh/leetcode-solutions/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 <!---LeetCode Topics End-->
