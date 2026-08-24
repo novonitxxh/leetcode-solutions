@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/novonitxxh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/novonitxxh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/novonitxxh/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0523-continuous-subarray-sum](https://github.com/novonitxxh/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0692-top-k-frequent-words](https://github.com/novonitxxh/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [1472-design-browser-history](https://github.com/novonitxxh/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [2965-find-missing-and-repeated-values](https://github.com/novonitxxh/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/novonitxxh/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/novonitxxh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/novonitxxh/leetcode-solutions/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/novonitxxh/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/novonitxxh/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/novonitxxh/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/novonitxxh/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/novonitxxh/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/novonitxxh/leetcode-solutions/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/novonitxxh/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/novonitxxh/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -244,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/novonitxxh/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/novonitxxh/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/novonitxxh/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
