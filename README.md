@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/novonitxxh/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0523-continuous-subarray-sum](https://github.com/novonitxxh/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0692-top-k-frequent-words](https://github.com/novonitxxh/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [1004-max-consecutive-ones-iii](https://github.com/novonitxxh/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1472-design-browser-history](https://github.com/novonitxxh/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [2965-find-missing-and-repeated-values](https://github.com/novonitxxh/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/novonitxxh/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/novonitxxh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/novonitxxh/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1004-max-consecutive-ones-iii](https://github.com/novonitxxh/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/novonitxxh/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/novonitxxh/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/novonitxxh/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/novonitxxh/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
