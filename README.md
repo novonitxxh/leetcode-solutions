@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/novonitxxh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/novonitxxh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/novonitxxh/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/novonitxxh/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0523-continuous-subarray-sum](https://github.com/novonitxxh/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0692-top-k-frequent-words](https://github.com/novonitxxh/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [1472-design-browser-history](https://github.com/novonitxxh/leetcode-solutions/tree/master/1472-design-browser-history) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/novonitxxh/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/novonitxxh/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0416-partition-equal-subset-sum](https://github.com/novonitxxh/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/novonitxxh/leetcode-solutions/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/novonitxxh/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Hash Table
@@ -261,4 +263,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/novonitxxh/leetcode-solutions/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/novonitxxh/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/novonitxxh/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
